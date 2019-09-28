@@ -1,0 +1,9 @@
+此脚本是基于python3所编写的
+
+需要安装以下模块
+
+pip3 install dnspython3        
+pip3 install tldextract  
+
+
+另外第24行的线程数可以自己设置
